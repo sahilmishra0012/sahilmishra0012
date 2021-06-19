@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![Sahil's Github Profile Views](https://komarev.com/ghpvc/?username=sahilmishra0012&color=blueviolet)  
-[![Sahil's Github Stats](https://github-readme-stats.vercel.app/api?username=sahilmishra0012&show_icons=true&count_private=true)](https://github.com/sahilmishra0012/github-readme-stats)  
+![Sahil's Github Stats](https://github-readme-stats.vercel.app/api?username=sahilmishra0012&show_icons=true&count_private=true)
