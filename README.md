@@ -1,5 +1,6 @@
 # Hi there! Sahil this side!!! 👋
 ## Well! Well! Well!... This is my portfolio.
+<img align="left" src="https://komarev.com/ghpvc/?username=sahilmishra0012&color=blueviolet">
 
 <img align="right" alt="GIF" src="data.gif" width="400px" />
 
@@ -13,10 +14,6 @@
 
 <br>
 <br>
-<p>
-  <img src="https://komarev.com/ghpvc/?username=sahilmishra0012&color=blueviolet">
-</p>
-
 <br>
 <br>
 <p>
