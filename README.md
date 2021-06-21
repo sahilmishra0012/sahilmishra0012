@@ -8,7 +8,7 @@
 - 📫 How to reach me: sahilmishra0012@outlook.com
 
 
-<img align="right" alt="GIF" src="data.gif" width="400px" />
+<img align="right" alt="GIF" src="data.gif" width="300px" />
 
 
 ![Sahil's Github Profile Views](https://komarev.com/ghpvc/?username=sahilmishra0012&color=blueviolet)  
