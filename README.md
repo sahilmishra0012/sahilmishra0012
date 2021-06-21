@@ -13,12 +13,12 @@
 
 <br>
 <br>
-<p align="center">
+<p>
   <img src="https://komarev.com/ghpvc/?username=sahilmishra0012&color=blueviolet">
 </p>
 
 <br>
 <br>
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=sahilmishra0012&show_icons=true&count_private=true">
 </p>
