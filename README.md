@@ -10,7 +10,7 @@
 - 🤔 I’m looking for help with learning anything new.
 - 📫 How to reach me: sahilmishra0012@outlook.com
 
-<p align="center>
+<div align="center>
 ![Sahil's Github Profile Views](https://komarev.com/ghpvc/?username=sahilmishra0012&color=blueviolet)  
 ![Sahil's Github Stats](https://github-readme-stats.vercel.app/api?username=sahilmishra0012&show_icons=true&count_private=true)
-</p>
+</div>
