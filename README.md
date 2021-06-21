@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img align="right" alt="GIF" src="data.gif" width="400px" />
+
 
 ![Sahil's Github Profile Views](https://komarev.com/ghpvc/?username=sahilmishra0012&color=blueviolet)  
 ![Sahil's Github Stats](https://github-readme-stats.vercel.app/api?username=sahilmishra0012&show_icons=true&count_private=true)
