@@ -5,9 +5,11 @@
 <br />
 <br />
 <p align="left"> <img align="left" src="https://komarev.com/ghpvc/?username=sahilmishra0012&color=blueviolet"></p>
+<br />
 
 <img align="right" alt="GIF" src="data.gif" width="400px" />
-  
+<br />
+
 **A bit about me:**
 
 - 🔭 I’m currently working as **Software Developer @ IUDX, IISc.**
