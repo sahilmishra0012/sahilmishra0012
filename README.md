@@ -3,7 +3,7 @@
 <img align="left" src="https://komarev.com/ghpvc/?username=sahilmishra0012&color=blueviolet">
 
 <img align="right" alt="GIF" src="data.gif" width="400px" />
-
+<br>
 
 - 🔭 I’m currently working as **Software Developer @ IUDX, IISc.**
 - 🌱 I’m currently learning whatever challenges me.
