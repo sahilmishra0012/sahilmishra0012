@@ -12,10 +12,8 @@
 
 
 <br>
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=sahilmishra0012&color=blueviolet">
-</p>
 <br>
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sahilmishra0012&color=blueviolet">
   <img src="https://github-readme-stats.vercel.app/api?username=sahilmishra0012&show_icons=true&count_private=true">
 </p>
