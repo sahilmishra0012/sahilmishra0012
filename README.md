@@ -10,9 +10,12 @@
 - 🤔 I’m looking for help with learning anything new.
 - 📫 How to reach me: sahilmishra0012@outlook.com
 
-<br>
 
+<br>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=sahilmishra0012&color=blueviolet">
+</p>
+<br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sahilmishra0012&show_icons=true&count_private=true">
-<img src="https://komarev.com/ghpvc/?username=sahilmishra0012&color=blueviolet">
 </p>
