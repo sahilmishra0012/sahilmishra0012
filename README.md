@@ -12,7 +12,7 @@
 
 **A bit about me:**
 
-- 🔭 I’m currently working as **Software Developer @ IUDX, IISc.**
+- 🔭 I’m currently doing PhD at IIT Delhi under Prof. Tanmoy Chakraborty.
 - 🌱 I’m currently learning whatever challenges me.
 - 👯 I’m looking to collaborate on **Open Source AI Projects and Kaggle Competitions.**
 - 🤔 I’m looking for help with learning anything new.
