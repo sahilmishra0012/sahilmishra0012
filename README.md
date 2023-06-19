@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! Sahil this side!!! 👋</h1>
-<h3 align="center">Software Developer @ IUDX, IISc ● AI ● Web ● Android</h3>
+<h3 align="center">PhD @ IIT Delhi ● NLP ● Graphs ● RecSys</h3>
 
 <br />
 <br />
